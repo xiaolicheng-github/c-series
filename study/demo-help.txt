@@ -3,4 +3,6 @@ test1.c: 输入输出示例 scanf 输入
 test2.c: 输出单个字符 %c char 
 test3.c：输出浮点数 %f 最多7位
 test4.c: 输出双精度 %le 最多7位
-test5.c：输入输出实现加法计算
+test5.c：自定义输入实现加法计算
+test6.c：自定义输入实现浮点数乘法
+test7.c: 自定义输入查看ASCII码  %d 显示整数 %c 显示对应字符
